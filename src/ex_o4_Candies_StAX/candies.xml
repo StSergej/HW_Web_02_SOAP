@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<class>
+    <candy>
+        <name>Snickers</name>
+        <brand>Mars</brand>
+        <origin>USA</origin>
+        <type>Candy bar</type>
+        <data>
+            <description>chocolate bar with roasted peanuts under a layer of caramel topped with milk chocolate</description>
+            <composition>milk chocolate, nougat, caramel, peanuts, cocoa butter, sugar, powdered milk</composition>
+            <weight >80gr</weight>
+            <nutritional_value proteins="9,5gr" fats="27gr " carbohydrates="56gr ">in 100 grams of product</nutritional_value>
+            <energy Kcal="507">calories in 100 grams of product</energy>
+        </data>
+        <shelf_life>9 months</shelf_life>
+    </candy>
+
+    <candy>
+        <name>The Cow</name>
+        <brand>ROSHEN</brand>
+        <origin>Ukraine</origin>
+        <type>Unglazed sweets</type>
+        <data>
+            <description>unglazed milk candy with sugared crust</description>
+            <composition>sugar, condensed milk with sugar, water, molasses, butter</composition>
+            <weight>15gr</weight>
+            <nutritional_value protein="2,8gr" fats="4,1gr " carbohydrates="81,5gr ">in 100 grams of product</nutritional_value>
+            <energy Kcal="375">calories in 100 grams of product</energy>
+        </data>
+        <shelf_life>12 months</shelf_life>
+    </candy>
+
+</class>
